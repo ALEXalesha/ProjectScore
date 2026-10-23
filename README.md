@@ -17,7 +17,7 @@ Code, tests and docs are written by Claude (Anthropic) in Claude Code. Ideas, te
 
 There is no code yet. The design note
 ([docs/superpowers/specs/2026-10-24-projectscore-design.md](docs/superpowers/specs/2026-10-24-projectscore-design.md),
-in Russian) waits for Alexey's go-ahead. This README describes the plan, not a working program.
+in Russian) is approved (24.10); work is queued. This README describes the plan, not a working program.
 
 ## What it will check
 
